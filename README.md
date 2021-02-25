@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**cvinicius987/cvinicius987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Caio Vinicius 👋</h1>
 
-Here are some ideas to get you started:
+I'm an software architect and developer my principal focus is on backend development using different technologies to help companies to grow up and to get better results using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My principal stack:
+
+📫 How to reach me:
+
+[<img align="left" alt="Caio Vinicius@LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/cvinicius987](https://linkedin.com/in/cvinicius987)
+[<img align="left" alt="Caio Vinicius@Blog" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"> https://blog.cvinicius.com.br](https://blog.cvinicius.com.br)
+
+<hr />
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvinicius987&layout=compact&count_private=true)
