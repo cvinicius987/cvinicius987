@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/cvinicius987/)
 [![SIte Badge](https://img.shields.io/badge/-Blog-1B4877?style=flat-square&labelColor=1B4877&logo=blogger&logoColor=white&link=https://blog.cvinicius.com.br)](https://blog.cvinicius.com.br)
 
-I'm an software architect and developer my principal focus is on backend development using different technologies to resolve problems and to help companies to grow up using technology.
+I'm an software architect and developer I like to learn new technologies and solutions to resolve problems and to help companies and people to obtain best results.
 
 <h4>💻 My principal stack:</h4>
 	
