@@ -7,7 +7,8 @@ I'm a software architect and developer I like to learn new technologies and solu
 
 <h4>💻 My principal stack:</h4>
 	
-* Algorithms, Architecture, Microservices, Clean Code, BigData;
+* Algorithms, Architecture, Microservices, BigData, Event Sourcing;
+* Clean Code, Clean Architecture, DDD;
 * Java, Kotlin, Golang, JavaScript;
 * Spring Boot, JEE, Micro frameworks;
 * HTML, Bootstrap, ReactJS, NextJS,
