@@ -10,12 +10,12 @@ I'm a software architect and developer I like to learn new technologies and solu
 * Architecture, Web, APIs, Microservices, BigData, Event Sourcing;
 * Clean Code, Clean Architecture, DDD;
 * Java, Kotlin, Golang, JavaScript;
-* Spring Boot, JEE, Micro frameworks;
+* Spring Boot, Quarkus, JEE, Micro frameworks;
 * HTML, Bootstrap, ReactJS, NextJS,
 * PostgreSQL, MySQL, Oracle;
 * MongoDB, Redis;
 * RabbitMQ, Apache Kafka;
-* Docker, Kubernetes;
+* Docker, Swarm, Kubernetes;
 * AWS, Azure.
 
 <hr />
